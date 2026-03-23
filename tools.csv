@@ -1,0 +1,9 @@
+name,category,url,description,status
+skills.sh,AI coding workflow,https://skills.sh/,"Directory and learning surface for reusable skills that improve agent workflows and coding operations.",active
+Remotion,AI video/content stack,https://www.remotion.dev/,"React-based framework for generating videos programmatically; useful for automated content and video production.",active
+gstack,AI app starter stack,https://github.com/garrytan/gstack,"Opinionated AI app starter template for shipping AI products faster.",active
+OpenArt Suite,AI creative tools,https://openart.ai/suite/,"AI toolkit for image generation, editing, and branded creative asset production.",active
+everything-claude-code,Agent optimization system,https://github.com/affaan-m/everything-claude-code,"Toolkit for improving AI coding agents with skills, memory, security, and research-first workflows.",active
+Paperclip AI,Multi-agent business ops,https://github.com/paperclipai/paperclip,"Platform for orchestrating teams of AI agents to run business workflows from one dashboard.",active
+Auto Research,Research automation,TBD,"Placeholder entry until the exact tool URL and product name are confirmed.",needs-confirmation
+Drizz,AI QA/testing,https://www.drizz.dev/,"Vision AI mobile app testing agent for QA automation and regression coverage.",active
