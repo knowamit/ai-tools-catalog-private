@@ -2,7 +2,7 @@
 
 A curated working catalog of useful AI tools, agent frameworks, and production-grade AI products.
 
-Live site: [https://amitsnyderman.github.io/ai-tools-catalog-private](https://amitsnyderman.github.io/ai-tools-catalog-private) *(enable GitHub Pages in repo Settings → Pages → Branch: main)*
+Live site: [https://knowamit.github.io/ai-tools-catalog-private](https://knowamit.github.io/ai-tools-catalog-private) *(enable GitHub Pages in repo Settings → Pages → Branch: main)*
 
 ---
 
