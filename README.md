@@ -29,6 +29,13 @@ Live site: [https://knowamit.github.io/ai-tools-catalog-private](https://knowami
 | Claude Architect Guide | AI learning resource | https://x.com/hooeem/status/2033198345045336559 | Comprehensive guide to becoming a Claude Architect — covers Claude Code, Claude Agent SDK, Claude API, and Model Context Protocol (MCP) for building production-grade AI applications. |
 | Variant | AI UI design | https://variant.com/ | AI design tool that generates endless UI variations by scrolling — type any app idea and explore multiple visual directions; export as HTML or React. |
 | 21st.dev | AI agent infrastructure | https://21st.dev/ | Developer platform for building and deploying AI agents at scale, with an Agents SDK, pre-built UI components, spend limits, sandbox execution, and observability. |
+| AI Engineering from Scratch | AI learning resource | https://github.com/rohitg00/ai-engineering-from-scratch | Hands-on curriculum covering LLMs, agents, RAG, fine-tuning, and production deployment — for engineers transitioning into AI roles. |
+| Underestimating AI | AI perspective/essay | https://tinyclouds.org/underestimating-ai/ | Essay by Ryan Dahl (creator of Node.js and Deno) arguing that AI capabilities are consistently underestimated by developers and the tech industry. |
+| smux | AI/dev tooling | https://github.com/ShawnPana/smux/ | Terminal session multiplexer for managing multiple concurrent AI agent sessions and dev processes from a single terminal window. |
+| Tinker | AI experimentation platform | https://thinkingmachines.ai/tinker/ | AI sandbox and experimentation platform by Thinking Machines — lets teams prototype, test, and iterate on AI solutions without heavy engineering setup. |
+| iii.dev | AI developer tools | https://iii.dev/ | Developer tooling and infrastructure for building and deploying AI-powered applications. |
+| agents.md | AI agent specification | https://agents.md/ | Open specification and convention for defining AI agent behavior and capabilities in a standardized markdown format — like README.md but for agents. |
+| browser-use | AI browser automation | https://browser-use.com/ | Python library that lets AI agents control a real browser — navigate, click, fill forms, and extract data — enabling full web automation for LLM-powered workflows. |
 | Auto Research | Research automation | TBD | Placeholder — confirm the exact product/URL to finalize. |
 
 ---
