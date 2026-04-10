@@ -36,6 +36,10 @@ Live site: [https://knowamit.github.io/ai-tools-catalog-private](https://knowami
 | iii.dev | AI developer tools | https://iii.dev/ | Developer tooling and infrastructure for building and deploying AI-powered applications. |
 | agents.md | AI agent specification | https://agents.md/ | Open specification and convention for defining AI agent behavior and capabilities in a standardized markdown format — like README.md but for agents. |
 | browser-use | AI browser automation | https://browser-use.com/ | Python library that lets AI agents control a real browser — navigate, click, fill forms, and extract data — enabling full web automation for LLM-powered workflows. |
+| The Well | AI research dataset | https://polymathic-ai.org/the_well/ | 15TB collection of physics simulation datasets by Polymathic AI for ML research and scientific foundation model benchmarking. |
+| LLM Wiki | AI/dev tooling | https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f | Karpathy's pattern for building persistent LLM-maintained knowledge bases that compile and integrate information incrementally. |
+| Goose | AI agent infrastructure | https://goose-docs.ai/docs/getting-started/installation | Open-source AI agent by Block that automates engineering tasks through desktop and CLI with multi-LLM support. |
+| Caveman | Agent optimization system | https://github.com/JuliusBrussee/caveman | Claude Code skill that reduces output tokens by ~75% by making AI responses terse and direct. |
 | Auto Research | Research automation | TBD | Placeholder — confirm the exact product/URL to finalize. |
 
 ---
